@@ -123,6 +123,7 @@ runs:
         #NOT_BUILT - Module was not build
         #ABORTED - Manually aborted
         #Short pause
+      shell: bash 
 branding:
   icon: 'arrow-down-circle'
   color: 'gray-dark'
